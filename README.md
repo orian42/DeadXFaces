@@ -44,7 +44,7 @@
   Testing was done while the applicaton was being coding and tested several times after it's launch through Render.
 
   ## Site-URL
-  https://deadxfaces.onrender.com/
+  [https://deadxfaces.onrender.com/](https://deadxfaces.up.railway.app/)
 
   ## Screenshots
 ![DeadFace1](https://github.com/user-attachments/assets/a609dc31-d26b-4543-b375-960ed4d9be43)
